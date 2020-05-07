@@ -1,0 +1,20 @@
+nav {
+    width: 1448px;
+    height: 102px;
+    left: -2px;
+    top: 69px;
+    
+    background: #FFFFFF;
+    border: 2px solid #CDCDCD;
+    box-sizing: border-box;
+}
+
+img.logo{
+
+
+}
+
+.row{
+    margin-left: 200px;
+    margin-right: 200px;
+}
